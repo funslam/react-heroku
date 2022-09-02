@@ -2,7 +2,6 @@ This project React Demo is created with Reactjs.
 
 Please find output below as show in images : 
 
-<img src="http://akashsenta.com/files/React_app.png" alt="React App demo"/>
 
 
 
